@@ -1,5 +1,5 @@
 # 2021_Authentic Search Engine
-##2021 Cooperative Project - Korea Aerospace University   
+## 2021 Cooperative Project - Korea Aerospace University   
 
 ### Search UI
 <p align="center"><img src="https://github.com/suhyeong-jeon/2021_Authentic_Search_Engine/assets/70623959/c07840a7-6efd-4e33-a406-e157ce41870f"></p>   
